@@ -1,0 +1,33 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Raised.by.Wolves
+Original Script: FIXSubtitleGroup
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 2
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,22,&H00DEDEDE,&HF0000000,&H00111211,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: 特效,Microsoft YaHei,20,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 注释,Microsoft YaHei,18,&H00DEDEDE,&HFF000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,5,1
+Style: 歌词,Microsoft YaHei,13,&H00DEDEDE,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,15,5,20,1
+Style: 特效 - 背景,Microsoft YaHei,20,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.29,0:00:12.38,特效,,0,0,0,,{\a6\fscx90\fn方正准圆_GBK\shad0.7\fsp10\pos(192,167.6)\c&H131719&\4c&H131719&\t(29,4617,\4c&HE4EAED&)\blur0.4\fad(4617,0)}异星灾{\fsp0}变\N{\fs12\fsp5}第一季 第１{\fsp0}集
+Dialogue: 0,0:00:28.94,0:00:32.90,特效,,0,0,0,,{\fn方正粗圆_GBK\shad1.7\blur0.4\fs10\fad(695,0)\pos(337.8,182.4)}开普勒-22b
+

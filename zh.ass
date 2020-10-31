@@ -1,0 +1,30 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Raised.by.Wolves
+Original Script: FIXSubtitleGroup
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 2
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,22,&H00DEDEDE,&HF0000000,&H00111211,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.29,0:00:12.38,Default,,0,0,0,,YiXingZaiBian
+Dialogue: 0,0:00:28.94,0:00:32.90,Default,,0,0,0,,KLP-22b
+
